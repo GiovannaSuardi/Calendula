@@ -1,0 +1,26 @@
+{
+    // Configurazioni di avvio: scegline una dal menu "Esegui e debug" (Ctrl+Shift+D) e premi F5.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Calendula (dispositivo selezionato)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "Calendula su Chrome",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "deviceId": "chrome"
+        },
+        {
+            "name": "Calendula su emulatore Android",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "deviceId": "emulator"
+        }
+    ]
+}
