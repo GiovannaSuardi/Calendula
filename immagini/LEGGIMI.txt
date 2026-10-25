@@ -1,0 +1,27 @@
+CALENDULA - immagini per l'app
+================================
+Stile: "pieno classico" (petali arancio #F28C28, centro giallo #FFC93C,
+linea continua nera #1A1A1A, sfondo crema #FFF1D9).
+
+vettoriali/  Disegni SVG modificabili e scalabili senza perdere qualita'.
+icone/       icona_app_1024 = icona per App Store / Play Store (quadrata,
+             gli angoli li arrotonda il telefono).
+             android_adaptive_* = primo piano + sfondo per l'icona adattiva Android.
+             fiore_trasparente_* = il fiore senza sfondo, in varie misure.
+             notifica_bianca_96 = icona per le notifiche Android.
+             web_* = favicon e icone per la versione web.
+sfondi/      Sfondi verticali 1080x1920 per schermate e splash,
+             uno orizzontale, un'intestazione e una tessera ripetibile.
+tempo/       petali_N_di_7 = progresso con 0..7 petali (es. giorni della
+             settimana, medicine prese, esercizi fatti).
+             animazione_petali_che_crescono.gif e caricamento_fiore_che_gira.gif
+             petalo_singolo = per decorazioni o petali che cadono.
+
+Colori:
+  Arancio petali  #F28C28
+  Giallo centro   #FFC93C
+  Linea           #1A1A1A
+  Crema sfondo    #FFF1D9
+  Verde salvia    #DCE8CF
+  Verde scuro     #2F4A22
+  Pesca           #FFE3C7
