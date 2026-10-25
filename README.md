@@ -18,7 +18,7 @@ Serve [Flutter](https://docs.flutter.dev/get-started/install) (stable, 3.47 o pi
 e, per Android, Android Studio con un emulatore.
 
 ```bash
-git clone https://github.com/<utente>/Calendula.git
+git clone https://github.com/GiovannaSuardi/Calendula.git
 cd Calendula
 flutter pub get
 flutter test
